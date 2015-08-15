@@ -1,4 +1,4 @@
-"""
+﻿"""
 Django settings for superlists project.
 
 For more information on this file, see
@@ -36,6 +36,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'lists',
 )
 
 MIDDLEWARE_CLASSES = (
